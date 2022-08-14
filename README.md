@@ -1,4 +1,5 @@
 # CRUD
-Another zuri blog task
-my blog
+
+Created a blog(anothe zuri task)
+
 Link to pages- https://iqmaa.github.io/CRUD/
